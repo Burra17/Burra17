@@ -9,7 +9,7 @@ I build production-ready systems — from secure .NET APIs and clean database de
 
 ## 🔭 Currently building
 
-**DOJO Future** — An AI-ready Learning Management System (LMS) for the Swedish vocational education system.
+**DOJO Future** — An AI-ready Learning Management System (LMS) for the Swedish YH system.
 `.NET 10` · `Next.js 16` · `React 19` · `PostgreSQL 17` · `BankID` · `Clean Architecture` · `CQRS`
 
 ---
@@ -62,3 +62,4 @@ I build production-ready systems — from secure .NET APIs and clean database de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-pettersson)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andre20030417@gmail.com)
+
