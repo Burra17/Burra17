@@ -52,8 +52,8 @@ I build production-ready systems — from secure .NET APIs and clean database de
 ## 📊 Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Burra17&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burra17&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-xi-umber.vercel.app/api?username=Burra17&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-xi-umber.vercel.app/api/top-langs/?username=Burra17&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
