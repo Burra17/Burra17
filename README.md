@@ -42,10 +42,12 @@ I build production-ready systems — from secure .NET APIs and clean database de
 
 | Project | Description | Stack |
 |---|---|---|
-| [ShiftMate](https://github.com/Burra17/ShiftMate) | Shift management system with invite-based registration, email verification, role-based access and CI/CD pipeline | C# · .NET · Clean Architecture |
-| [Brogarden](https://github.com/Burra17/Brogarden) | Production website with SEO, structured data, WebP image optimization, and responsive mobile design | TypeScript · React · Vite |
+| [ShiftMate](https://github.com/Burra17/ShiftMate) | Fullstack shift management system with invite-based registration, email verification, role-based access and CI/CD pipeline | C# · .NET · Clean Architecture |
+| [MyPortfolio](https://github.com/Burra17/MyPortfolio) | Personal portfolio with AI chat assistant, GitHub activity feed, and cyber/tech aesthetic | JavaScript · HTML · CSS |
+| [Articles](https://github.com/Burra17/articles) | Cloud-based academic journal platform with microservices | C# · .NET 9 · RabbitMQ · gRPC · PostgreSQL |
+| [Brogarden](https://github.com/Burra17/Brogarden) | Production client website with SEO, structured data, WebP image optimization and responsive design | TypeScript · React · Vite |
 | [TaskBoard](https://github.com/Burra17/TaskBoard) | Clean Architecture Web API with CQRS, MediatR, JWT auth and role-based access control | C# · .NET 10 · EF Core |
-| [Portfolio Quest Tracker](https://github.com/Burra17/Portfolio-Projekt-Quest-Tracker) | Quest-style project tracker for managing personal dev goals | C# |
+| [Portfolio Quest Tracker](https://github.com/Burra17/Portfolio-Projekt-Quest-Tracker) | RPG-inspired project tracker for managing personal dev goals | C# |
 
 ---
 
