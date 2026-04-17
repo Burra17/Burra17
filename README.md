@@ -44,8 +44,8 @@ I build production-ready systems — from secure .NET APIs and clean database de
 |---|---|---|
 | [ShiftMate](https://github.com/Burra17/ShiftMate) | Shift management system with invite-based registration, email verification, role-based access and CI/CD pipeline | C# · .NET · Clean Architecture |
 | [Brogarden](https://github.com/Burra17/Brogarden) | Production website with SEO, structured data, WebP image optimization, and responsive mobile design | TypeScript · React · Vite |
+| [TaskBoard](https://github.com/Burra17/TaskBoard) | Clean Architecture Web API with CQRS, MediatR, JWT auth and role-based access control | C# · .NET 10 · EF Core |
 | [Portfolio Quest Tracker](https://github.com/Burra17/Portfolio-Projekt-Quest-Tracker) | Quest-style project tracker for managing personal dev goals | C# |
-| [Travel Journal](https://github.com/Burra17/Travel-Journal-Portfolio) | Travel journal portfolio application | C# |
 
 ---
 
