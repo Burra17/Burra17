@@ -1,6 +1,6 @@
 # Hey, I'm André 👋
 
-**Fullstack .NET + React developer** based in Göteborg, Sweden.
+**Fullstack .NET + React developer** based in Hudiksvall, Sweden.
 Studying at NBI Handelsakademin *(graduating June 2027)* · Currently doing my LIA at **[Apptech](https://apptech.se)**
 
 I like building things end to end: .NET APIs and database design on the backend, React and TypeScript on the frontend, and keeping the code clean enough that the next person can follow it.
