@@ -1,16 +1,22 @@
 # Hey, I'm André 👋
 
-**Fullstack Developer** based in Göteborg, Sweden.
-Studying at NBI Handelsakademin *(graduating June 2027)* · Working at **[InFiNet Code AB](https://github.com/InFiNet-Code-AB)**
+**Fullstack .NET + React developer** based in Göteborg, Sweden.
+Studying at NBI Handelsakademin *(graduating June 2027)* · Currently doing my LIA at **[Apptech](https://apptech.se)**
 
-I build production-ready systems — from secure .NET APIs and clean database design to fast React/Next.js frontends. Strong focus on Clean Architecture, TDD, and shipping things that actually work.
+I like building things end to end: .NET APIs and database design on the backend, React and TypeScript on the frontend, and keeping the code clean enough that the next person can follow it.
 
 ---
 
-## 🔭 Currently building
+## 💼 Currently
 
-**DOJO Future** — An AI-ready Learning Management System (LMS) for the Swedish YH system.
-`.NET 10` · `Next.js 16` · `React 19` · `PostgreSQL 17` · `BankID` · `Clean Architecture` · `CQRS`
+**LIA at [Apptech](https://apptech.se)** · Aug – Nov 2026 · Fullstack
+
+- **EasyStaff — Equipment module:** built the backend API (asset lifecycle, fault reporting, push reminders, scheduled jobs with Hangfire, role-based access) and the React/TypeScript UI on top of it.
+- **Föreningssupport — Help pages:** API and database for a help-page back office, plus the admin UI, a customer-facing help view and an in-app help panel.
+
+`React` · `TypeScript` · `TanStack Query` · `MUI` · `.NET` · `Umbraco` · `Dapper` · `NPoco` · `Hangfire`
+
+*Next up: studies until January, then my second LIA from February to May 2027.*
 
 ---
 
@@ -22,12 +28,14 @@ I build production-ready systems — from secure .NET APIs and clean database de
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **DevOps & Tools**
@@ -42,12 +50,12 @@ I build production-ready systems — from secure .NET APIs and clean database de
 
 | Project | Description | Stack |
 |---|---|---|
+| [React Nexus](https://github.com/Burra17/react-nexus) | Interactive textbook and code lab that shows how React, TanStack Query and MUI work under the hood · [live](https://react-nexus.vercel.app) | TypeScript · React · TanStack Query · MUI |
 | [ShiftMate](https://github.com/Burra17/ShiftMate) | Fullstack shift management system with invite-based registration, email verification, role-based access and CI/CD pipeline | C# · .NET · Clean Architecture |
-| [MyPortfolio](https://github.com/Burra17/MyPortfolio) | Personal portfolio with AI chat assistant, GitHub activity feed, and cyber/tech aesthetic | JavaScript · HTML · CSS |
 | [Articles](https://github.com/Burra17/articles) | Cloud-based academic journal platform with microservices | C# · .NET 9 · RabbitMQ · gRPC · PostgreSQL |
 | [Brogarden](https://github.com/Burra17/Brogarden) | Production client website with SEO, structured data, WebP image optimization and responsive design | TypeScript · React · Vite |
 | [TaskBoard](https://github.com/Burra17/TaskBoard) | Clean Architecture Web API with CQRS, MediatR, JWT auth and role-based access control | C# · .NET 10 · EF Core |
-| [Portfolio Quest Tracker](https://github.com/Burra17/Portfolio-Projekt-Quest-Tracker) | RPG-inspired project tracker for managing personal dev goals | C# |
+| [PromptVault.Api](https://github.com/Burra17/PromptVault.Api) | REST API for storing, managing and live-testing AI prompts against the OpenAI API | C# · ASP.NET Core · OpenAI |
 
 ---
 
@@ -64,4 +72,3 @@ I build production-ready systems — from secure .NET APIs and clean database de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-pettersson)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andre20030417@gmail.com)
-
