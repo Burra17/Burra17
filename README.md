@@ -55,7 +55,7 @@ I like building things end to end: .NET APIs and database design on the backend,
 | [Articles](https://github.com/Burra17/articles) | Cloud-based academic journal platform with microservices | C# · .NET 9 · RabbitMQ · gRPC · PostgreSQL |
 | [Brogarden](https://github.com/Burra17/Brogarden) | Production client website with SEO, structured data, WebP image optimization and responsive design | TypeScript · React · Vite |
 | [TaskBoard](https://github.com/Burra17/TaskBoard) | Clean Architecture Web API with CQRS, MediatR, JWT auth and role-based access control | C# · .NET 10 · EF Core |
-| [PromptVault.Api](https://github.com/Burra17/PromptVault.Api) | REST API for storing, managing and live-testing AI prompts against the OpenAI API | C# · ASP.NET Core · OpenAI |
+| [Todo App](https://github.com/Burra17/todo-app) | My first mobile app: a to-do list with swipe to delete, filters, local storage, dark mode and reminders | TypeScript · React Native · Expo |
 
 ---
 
